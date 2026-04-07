@@ -1,5 +1,4 @@
- # 👋 About Me: Hello, I’m **Prince Pandey**, an aspiring Data Analyst skilled in Python, SQL, and Power BI, passionate about turning data into actionable insights., 
-
+ # 👋 About Me: Hello, I’m **Prince Pandey**, an aspiring Data Analyst 
 🔭 I’m currently working on real-world Data Analytics projects using Python, SQL, and Power BI.<br>👯 I’m open to internships and entry-level data analyst opportunities.<br>🤝 I’m seeking guidance and collaboration in advanced analytics and real-world datasets.<br>🌱 I’m currently learning Machine Learning and advanced data analysis techniques.<br>💬 Ask me about Data Analysis, SQL, Power BI, and dashboard development.<br>⚡ Fun fact: I love transforming raw data into actionable business insights.
 
 
