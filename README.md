@@ -1,5 +1,5 @@
 # 💫 About Me: Aspiring Data Analyst with hands-on experience in data analysis, visualization, and dashboard development using Python, 
-SQL, and Power BI, skilled in extracting actionable insights.
+
 🔭 I’m currently working on real-world Data Analytics projects using Python, SQL, and Power BI.<br>👯 I’m open to internships and entry-level data analyst opportunities.<br>🤝 I’m seeking guidance and collaboration in advanced analytics and real-world datasets.<br>🌱 I’m currently learning Machine Learning and advanced data analysis techniques.<br>💬 Ask me about Data Analysis, SQL, Power BI, and dashboard development.<br>⚡ Fun fact: I love transforming raw data into actionable business insights.
 
 
